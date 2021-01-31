@@ -1,0 +1,22 @@
+{
+  "name": "peya-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jastabile/peya-scrapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jastabile/peya-scrapping/issues"
+  },
+  "homepage": "https://github.com/jastabile/peya-scrapping#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
